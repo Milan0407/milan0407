@@ -56,10 +56,14 @@ Full Stack JavaScript Developer • React • Node.js • Express
 
 ---
 
+---
+
 ## 🔥 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan0407&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan0407&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
