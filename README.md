@@ -10,6 +10,10 @@ Full Stack JavaScript Developer • React • Node.js • Express
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express;Building+Scalable+Web+Applications;Always+Learning+New+Things+🚀" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Milan0407&color=blueviolet"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -56,6 +60,13 @@ Full Stack JavaScript Developer • React • Node.js • Express
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milan0407&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff"/>
+</p>
+
+---
 
 ## 💻 Developer Mindset
 
@@ -64,8 +75,6 @@ Full Stack JavaScript Developer • React • Node.js • Express
 </p>
 
 > "Code. Learn. Build. Repeat."
-
-
 
 ---
 
