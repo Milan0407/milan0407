@@ -56,9 +56,6 @@ Full Stack JavaScript Developer • React • Node.js • Express
 
 ---
 
----
-
----
 
 ## 💻 Developer Mindset
 
