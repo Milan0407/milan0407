@@ -1,26 +1,34 @@
+<!-- HEADER -->
+
 <h1 align="center">Hi 👋, I'm Milan Chauhan</h1>
-<h3 align="center">Full Stack JavaScript Developer | React | Node.js | Express</h3>
+
+<p align="center">
+Full Stack JavaScript Developer • React • Node.js • Express
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express;Building+Scalable+Web+Applications;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-stack JavaScript developer passionate about building scalable web applications
-- ⚡ Strong experience with React, Node.js, Express, and REST APIs
-- 🎓 B.Tech Computer Science Engineering (2023–2027)
-- 🌱 Currently improving full-stack architecture & modern web development
-- 🤝 Open to internships and collaboration opportunities
+✨ Full-stack developer passionate about building scalable web apps  
+⚡ Skilled in React, Node.js, Express & REST APIs  
+🎓 B.Tech Computer Science Engineering (2023–2027)  
+🔥 Love turning ideas into real products  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/Milan0407" target="blank">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-</a>
+<p align="center">
 <a href="mailto:milanchauhan0987@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Milan0407">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -28,37 +36,22 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c)
+<p align="center">
 
-### ⚡ Frontend
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,java,c,tailwind,git,github,postman,vscode,vercel,netlify" />
 
-### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/netlify-teal?style=for-the-badge&logo=netlify)
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Milan0407&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Milan0407&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Milan0407&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Milan0407&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -66,7 +59,7 @@
 ## 🔥 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan0407&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan0407&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -74,21 +67,19 @@
 ## 🚀 Featured Projects
 
 ### 📚 Shiksha Jyoti – Education Platform
-- Authentication, role-based dashboards
-- Course CRUD & file uploads
-- Stack: React, Node.js, Express, MongoDB
+✔ Authentication & role-based dashboards  
+✔ Course CRUD & file uploads  
+✔ React + Node.js + MongoDB
 
 ### 🤖 AI Test Case Generator
-- Generate test cases using Gemini API
-- GitHub OAuth integration
-- Full-stack automation tool
+✔ Generate test cases using Gemini API  
+✔ GitHub OAuth automation  
+✔ Full-stack AI tool
 
 ---
 
-## 💡 Fun Fact
+<p align="center">
 
-I love turning ideas into scalable full-stack applications 🚀
+⭐️ If you like my work, consider giving a star!
 
----
-
-⭐️ From [Milan0407](https://github.com/Milan0407)
+</p>
