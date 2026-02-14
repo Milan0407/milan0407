@@ -62,7 +62,7 @@ Full Stack JavaScript Developer • React • Node.js • Express
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan0407&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan0407&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </p>
 
